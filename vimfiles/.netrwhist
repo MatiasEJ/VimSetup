@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='C:\Users\keta'
+let g:netrw_dirhist_1='E:/proyectos-programacion/SmartB/back'
+let g:netrw_dirhist_0='E:\proyectos-programacion\SmartB\back'
+let g:netrw_dirhist_9='E:/Proyectos-programacion/SmartB/back'
+let g:netrw_dirhist_8='E:/Proyectos-programacion/SmartB'
+let g:netrw_dirhist_7='E:/Proyectos-programacion'
+let g:netrw_dirhist_6='E:/'
+let g:netrw_dirhist_5='C:\Windows\System32\WindowsPowerShell\v1.0'
+let g:netrw_dirhist_4='C:/Program Files (x86)/Vim/vim82/tutor'
+let g:netrw_dirhist_3='C:/Program Files (x86)/Vim/vim82'
